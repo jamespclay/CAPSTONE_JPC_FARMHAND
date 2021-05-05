@@ -1,0 +1,5 @@
+Installation:
+	To install this app the user will just have to go to the Apple Store and download the app. This app will require and iPhone or an iPad to download. This product will be meant to be used on any iPhone or iPad that is currently on the market. 
+
+Installation if installing a different device:
+		If the user installs on a new iPhone or iPad this app is setup to sync with Google Calendar while using it. Due to this setup it will always obtain the users calendar and pull information based off of that. As long as the user has Google Calendar the app will function as it is supposed to. 
